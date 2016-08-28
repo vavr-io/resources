@@ -16,6 +16,7 @@
 | 23th Jun 2016 | [Devoxx Poland][devoxx-poland] | [Functional Data Structures and Java 8](http://cfp.devoxx.pl/2016/talk/YGN-3260/Functional%20data%20structures%20with%20Java%208) | [Slides](https://speakerdeck.com/shelajev/functional-data-structures-with-java-8-devoxx-poland-16) | [Video](https://www.youtube.com/watch?v=2QWVmTiGvJE) | [Oleg Šelajev][shelajev] |
 | 19th Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March/) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12th Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
+| 10th Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
 | 20th Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
 
 ## Blog Posts
@@ -36,6 +37,7 @@
 [devoxx-belgium]: https://devoxx.be/ "Devoxx Belgium"
 [devoxx-poland]: https://devoxx.pl "Devoxx Poland"
 [javaday-kyiv]: http://javaday.org.ua "JavaDay Kyiv"
+[javazone]: http://javazone.no "JavaZone"
 [jdd-krakow]: http://16.jdd.org.pl/ "JDD Kraków"
 [jday-lviv]: http://www.jday.com.ua/ "JDay Lviv"
 [jug-barcelona]: www.barcelonajug.org/ "JUG Barcelona"
@@ -43,6 +45,7 @@
 [//]: # (Users)
 [breandan]: https://twitter.com/breandan "@breandan"
 [danieldietrich]: https://twitter.com/danieldietrich "@danieldietrich"
+[fredriv]: https://twitter.com/fredriv "@fredriv"
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
