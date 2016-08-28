@@ -1,3 +1,5 @@
+[//]: # (Note: Resources are sorted starting from newest in descending order)
+
 # Javaslang Resources
 
 ## Talks
