@@ -11,11 +11,7 @@
 | 3th Sep 2016 | [JDay Lviv][jday-lviv] | [Javaslang - functional Java done right](http://www.jday.com.ua/#nav-schedule) | | | [Grzegorz Piwowarek][pivovarit] |
 | 8th Jul 2016 | [DevCon Nürnberg][devcon-nuernberg] | [Javaslang - Functional Sugar For Java][devcon-nuernberg] | [Slides](http://www.slideshare.net/koenighotze/javaslang-functional-sugar-for-java) | | [David Schmitz][koenighotze] |
 | 2nd Jul 2016 | [Confitura PL][confitura-pl] | [Javaslang - functional Java the right way](http://2016.confitura.pl/#/presentations/) | [Slides](http://slides.com/pivovarit/javaslang-functional-java-done-right) | | [Grzegorz Piwowarek][pivovarit] |
-
-## Slides
-
-| Date | Title | Author |
-| --- | --- | --- |
+| 20th Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
 
 ## Blog Posts
 
@@ -30,9 +26,11 @@
 [devcon-nuernberg]: http://www.senacor.com/karriere/workshops/devcon/ "DevCon Nürnberg"
 [devoxx-belgium]: https://devoxx.be/ "Devoxx Belgium"
 [jday-lviv]: http://www.jday.com.ua/ "JDay Lviv"
+[jug-barcelona]: www.barcelonajug.org/ "JUG Barcelona"
 
 [//]: # (Users)
 [danieldietrich]: https://twitter.com/danieldietrich "@danieldietrich"
+[ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
 [torbjornvatn]: https://twitter.com/torbjornvatn "@torbjornvatn"
