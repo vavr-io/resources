@@ -17,6 +17,7 @@
 
 | Date | Title | Author |
 | --- | --- | --- | --- |
+| 29th Jun 2016 | [Functional Programming with Java 8 and javaslang](http://geeksinaction.blogspot.com.es/2016/06/functional-programming-with-java-8-and_29.html) | [Manish Devraj][manishdevraj] |
 | 30th Mar 2016 | [Battling Cyclomatic Complexity in Java using Javaslang](http://labs.unacast.com/2016/03/30/battling-cyclomatic-complexity-in-java-using-javaslang/) | [Torbjørn Vatn][torbjornvatn] |
 | 2nd Dec 2015| [Functional Data Structures in Java 8 with Javaslang](http://www.javaadvent.com/2015/12/functional-data-structures-in-java-8-with-javaslang.html) | [Daniel Dietrich][danieldietrich] |
 | 13th Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang/) | [Daniel Dietrich][danieldietrich] |
@@ -32,5 +33,6 @@
 [danieldietrich]: https://twitter.com/danieldietrich "@danieldietrich"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
+[manishdevraj]: https://twitter.com/manishdevraj "@manishdevraj"
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
 [torbjornvatn]: https://twitter.com/torbjornvatn "@torbjornvatn"
