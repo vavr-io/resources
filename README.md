@@ -7,6 +7,7 @@
 | Date | Conference | Talk | Speaker |
 | --- | --- | --- | --- |
 | 7th-11th Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - functional Java done right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | [Grzegorz Piwowarek][pivovarit] |
+| 7th-11th Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java The Easy Way](http://cfp.devoxx.be/2016/talk/JWK-6289/Javaslang%20-%20Functional%20Java%20The%20Easy%20Way) | [David Schmitz][koenighotze] |
 
 ## Slides
 
