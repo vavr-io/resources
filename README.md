@@ -26,7 +26,7 @@
 | 13th Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang/) | [Daniel Dietrich][danieldietrich] |
 
 [//]: # (Conferences)
-[confitua-pl]: http://confitura.pl "Confitura PL"
+[confitura-pl]: http://confitura.pl "Confitura PL"
 [devcon-nuernberg]: http://www.senacor.com/karriere/workshops/devcon/ "DevCon Nürnberg"
 [devoxx-belgium]: https://devoxx.be/ "Devoxx Belgium"
 [jday-lviv]: http://www.jday.com.ua/ "JDay Lviv"
