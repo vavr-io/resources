@@ -6,13 +6,13 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
-| 7th-11th Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - functional Java done right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
+| 7th-11th Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
 | 7th-11th Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java The Easy Way](http://cfp.devoxx.be/2016/talk/JWK-6289/Javaslang%20-%20Functional%20Java%20The%20Easy%20Way) | | | [David Schmitz][koenighotze] |
 | 14th-15th Oct 2016 | [JavaDay Kyiv][javaday-kyiv] | | | | [Grzegorz Piwowarek][pivovarit] |
-| 10th-11th Oct 2016 | [JDD Kraków][jdd-krakow] | | | | [Grzegorz Piwowarek][pivovarit] |
-| 3th Sep 2016 | [JDay Lviv][jday-lviv] | [Javaslang - functional Java done right](http://www.jday.com.ua/#nav-schedule) | | | [Grzegorz Piwowarek][pivovarit] |
+| 10th-11th Oct 2016 | [JDD Kraków][jdd-krakow] | [Javaslang - Functional Java Done Right](http://16.jdd.org.pl/program/lecture/javaslang-functional-java-done-right) | | | [Grzegorz Piwowarek][pivovarit] |
+| 3th Sep 2016 | [JDay Lviv][jday-lviv] | [Javaslang - Functional Java Done Right](http://www.jday.com.ua/#nav-schedule) | | | [Grzegorz Piwowarek][pivovarit] |
 | 8th Jul 2016 | [DevCon Nürnberg][devcon-nuernberg] | [Javaslang - Functional Sugar For Java][devcon-nuernberg] | [Slides](http://www.slideshare.net/koenighotze/javaslang-functional-sugar-for-java) | | [David Schmitz][koenighotze] |
-| 2nd Jul 2016 | [Confitura PL][confitura-pl] | [Javaslang - functional Java the right way](http://2016.confitura.pl/#/presentations/) | [Slides](http://slides.com/pivovarit/javaslang-functional-java-done-right) | | [Grzegorz Piwowarek][pivovarit] |
+| 2nd Jul 2016 | [Confitura PL][confitura-pl] | [Javaslang - Functional Java Done Right](http://2016.confitura.pl/#/presentations/) | [Slides](http://slides.com/pivovarit/javaslang-functional-java-done-right) | | [Grzegorz Piwowarek][pivovarit] |
 | 23th Jun 2016 | [Devoxx Poland][devoxx-poland] | [Functional Data Structures and Java 8](http://cfp.devoxx.pl/2016/talk/YGN-3260/Functional%20data%20structures%20with%20Java%208) | [Slides](https://speakerdeck.com/shelajev/functional-data-structures-with-java-8-devoxx-poland-16) | [Video](https://www.youtube.com/watch?v=2QWVmTiGvJE) | [Oleg Šelajev][shelajev] |
 | 19th Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March/) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12th Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
