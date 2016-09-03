@@ -14,6 +14,7 @@
 | 8th Jul 2016 | [DevCon Nürnberg][devcon-nuernberg] | [Javaslang - Functional Sugar For Java][devcon-nuernberg] | [Slides](http://www.slideshare.net/koenighotze/javaslang-functional-sugar-for-java) | | [David Schmitz][koenighotze] |
 | 2nd Jul 2016 | [Confitura PL][confitura-pl] | [Javaslang - Functional Java Done Right](http://2016.confitura.pl/#/presentations/) | [Slides](http://slides.com/pivovarit/javaslang-functional-java-done-right) | | [Grzegorz Piwowarek][pivovarit] |
 | 23th Jun 2016 | [Devoxx Poland][devoxx-poland] | [Functional Data Structures and Java 8](http://cfp.devoxx.pl/2016/talk/YGN-3260/Functional%20data%20structures%20with%20Java%208) | [Slides](https://speakerdeck.com/shelajev/functional-data-structures-with-java-8-devoxx-poland-16) | [Video](https://www.youtube.com/watch?v=2QWVmTiGvJE) | [Oleg Šelajev][shelajev] |
+| May 2016 | | JAVASLANG - A Functional Library for Java 8+ | [Slides](http://netzwerg.ch/slides/javaslang.html) | | [Rahel Lüthy][netzwerg999] |
 | 19th Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March/) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12th Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
 | 10th Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
@@ -51,6 +52,7 @@
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
 [manishdevraj]: https://twitter.com/manishdevraj "@manishdevraj"
 [mariofusco]: https://twitter.com/mariofusco "@mariofusco"
+[netzwerg999]: http://twitter.com/netzwerg999 "@netzwerg999"
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
 [shelajev]: https://twitter.com/shelajev "@shelajev"
 [torbjornvatn]: https://twitter.com/torbjornvatn "@torbjornvatn"
