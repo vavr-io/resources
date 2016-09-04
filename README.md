@@ -18,7 +18,7 @@
 | 19th Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March/) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12th Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
 | 10th Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
-| 20th Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
+| 20th Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | [Video](http://media.fib.upc.edu/fibtv/streamingmedia/view/22/1044) | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
 
 ## Blog Posts
 
