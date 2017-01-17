@@ -6,6 +6,7 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
+| 11 Jan 2017 | [Cluj FP][cluj-fp] | [Creating an efficient persistent ArrayList alternative for Javaslang ](https://www.meetup.com/Cluj-fp/events/235901256) | [Prezi](https://prezi.com/i3cu6yv3eja3/creating-an-efficient-persistent-arraylist-alternative) | [Video](https://goo.gl/K0YbjL)| [Pap Lőrinc][paplorinc] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java The Easy Way](http://cfp.devoxx.be/2016/talk/JWK-6289/Javaslang%20-%20Functional%20Java%20The%20Easy%20Way) | | | [David Schmitz][koenighotze] |
 | 14-15 Oct 2016 | [JavaDay Kyiv][javaday-kyiv] | | | | [Grzegorz Piwowarek][pivovarit] |
@@ -35,6 +36,7 @@
 | 13 Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang) | [Daniel Dietrich][danieldietrich] |
 
 [//]: # (Conferences)
+[cluj-fp]: https://www.meetup.com/Cluj-fp "Cluj-Napoca FP meetup"
 [codemotion]: http://www.codemotionworld.com "Codemotion Italy"
 [confitura-pl]: http://confitura.pl "Confitura PL"
 [devcon-nuernberg]: http://www.senacor.com/karriere/workshops/devcon "DevCon Nürnberg"
