@@ -25,6 +25,7 @@
 
 | Date | Title | Author |
 | --- | --- | --- |
+|  3 Nov 2016 | [PR for Javaslang: `Implement Vector as a bit-mapped trie`](https://www.linkedin.com/pulse/pr-javaslang-implement-vector-bit-mapped-trie-pap-lőrinc) | [Pap Lőrinc][paplorinc] |
 | 29 Jun 2016 | [Functional Programming with Java 8 and javaslang](http://geeksinaction.blogspot.com.es/2016/06/functional-programming-with-java-8-and_29.html) | [Manish Devraj][manishdevraj] |
 |  8 Jun 2016 | [PR for Javaslang: `Add a purely functional, persistent PriorityQueue`](https://www.linkedin.com/pulse/pr-javaslang-add-purely-functional-persistent-pap-lőrinc) | [Pap Lőrinc][paplorinc] |
 | 13 Apr 2016 | [Java Annotated Monthly – April 2016](https://blog.jetbrains.com/idea/2016/04/java-annotated-monthly-april-2016) | [Breandan Considine][breandan] |
