@@ -47,7 +47,7 @@
 [javazone]: http://javazone.no "JavaZone"
 [jday-lviv]: http://www.jday.com.ua "JDay Lviv"
 [jdd-krakow]: http://16.jdd.org.pl "JDD Kraków"
-[jug-barcelona]: www.barcelonajug.org "JUG Barcelona"
+[jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 
 [//]: # (Users)
 [breandan]: https://twitter.com/breandan "@breandan"
