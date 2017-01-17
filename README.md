@@ -24,10 +24,10 @@
 ## Blog Posts
 
 | Date | Title | Author |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 29 Jun 2016 | [Functional Programming with Java 8 and javaslang](http://geeksinaction.blogspot.com.es/2016/06/functional-programming-with-java-8-and_29.html) | [Manish Devraj][manishdevraj] |
 | 13 April 2016 | [Java Annotated Monthly – April 2016](https://blog.jetbrains.com/idea/2016/04/java-annotated-monthly-april-2016) | [Breandan Considine][breandan] |
-| 30 Mar 2016 | [Battling Cyclomatic Complexity in Java using Javaslang](http://labs.unacast.com/2016/03/30/battling-cyclomatic-complexity-in-java-using-javaslang  | [Torbjørn Vatn][torbjornvatn] |
+| 30 Mar 2016 | [Battling Cyclomatic Complexity in Java using Javaslang](http://labs.unacast.com/2016/03/30/battling-cyclomatic-complexity-in-java-using-javaslang) | [Torbjørn Vatn][torbjornvatn] |
 | 2 Dec 2015| [Functional Data Structures in Java 8 with Javaslang](http://www.javaadvent.com/2015/12/functional-data-structures-in-java-8-with-javaslang.html) | [Daniel Dietrich][danieldietrich] |
 | 11 Nov 2015 | [Functional programming for Java: getting started with Javaslang](http://tomassetti.me/functional-programming-for-java-getting-started-with-javaslang) | [Federico Tomassetti][ftomasse] |
 | 13 Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang) | [Daniel Dietrich][danieldietrich] |
