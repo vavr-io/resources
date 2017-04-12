@@ -26,6 +26,8 @@
 
 | Date | Title | Author |
 | --- | --- | --- |
+| 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
+| 17 Jan 2017 | [Property Based Testing with Javaslang](https://www.sitepoint.com/property-based-testing-with-javaslang) | [Gregor Trefs][gtrefs] |
 |  3 Nov 2016 | [PR for Javaslang: `Implement Vector as a bit-mapped trie`](https://www.linkedin.com/pulse/pr-javaslang-implement-vector-bit-mapped-trie-pap-lőrinc) | [Pap Lőrinc][paplorinc] |
 | 29 Jun 2016 | [Functional Programming with Java 8 and javaslang](http://geeksinaction.blogspot.com.es/2016/06/functional-programming-with-java-8-and_29.html) | [Manish Devraj][manishdevraj] |
 |  8 Jun 2016 | [PR for Javaslang: `Add a purely functional, persistent PriorityQueue`](https://www.linkedin.com/pulse/pr-javaslang-add-purely-functional-persistent-pap-lőrinc) | [Pap Lőrinc][paplorinc] |
@@ -50,10 +52,12 @@
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 
 [//]: # (Users)
+[baeldung]: https://twitter.com/baeldung "@baeldung"
 [breandan]: https://twitter.com/breandan "@breandan"
 [danieldietrich]: https://twitter.com/danieldietrich "@danieldietrich"
 [fredriv]: https://twitter.com/fredriv "@fredriv"
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
+[gtrefs]: https://twitter.com/gtrefs "@gtrefs"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
 [manishdevraj]: https://twitter.com/manishdevraj "@manishdevraj"
