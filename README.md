@@ -7,11 +7,12 @@
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
 | 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | [Falk Sippach](sippsack) |
+| 31 Mar-1 Apr 2017 | [Greach 2017][greach-conf17] | Javaslang & Groovy: The best of both worlds | | [Video](https://www.youtube.com/watch?v=0k7Yae1pjv4) | [Iván López][ilopmar] |
 | 11 Jan 2017 | [Cluj FP][cluj-fp] | [Creating an efficient persistent ArrayList alternative for Javaslang ](https://www.meetup.com/Cluj-fp/events/235901256) | [Prezi](https://prezi.com/i3cu6yv3eja3/creating-an-efficient-persistent-arraylist-alternative) | [Video](https://goo.gl/K0YbjL)| [Pap Lőrinc][paplorinc] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java The Easy Way](http://cfp.devoxx.be/2016/talk/JWK-6289/Javaslang%20-%20Functional%20Java%20The%20Easy%20Way) | | | [David Schmitz][koenighotze] |
 | 14-15 Oct 2016 | [JavaDay Kyiv][javaday-kyiv] | | | | [Grzegorz Piwowarek][pivovarit] |
-| 10-11 Oct 2016 | [JDD Kraków][jdd-krakow] | [Javaslang - Functional Java Done Right](http://16.jdd.org.pl/program/lecture/javaslang-functional-java-done-right) | | | [Grzegorz Piwowarek][pivovarit] |
+| 10-11 Oct 2016 | [JDD Kraków][jdd-krakow16] | [Javaslang - Functional Java Done Right](http://16.jdd.org.pl/program/lecture/javaslang-functional-java-done-right) | | | [Grzegorz Piwowarek][pivovarit] |
 | 18-22 Sep 2016 | [JavaOne][javaone] | [Functional Data Structures with Java 8](https://oracle.rainfocus.com/scripts/catalog/oow16.jsp?event=javaone&search=CON1146&search.event=javaone) | [Slides](https://speakerdeck.com/shelajev/functional-data-structures-with-java-8-javaone-16) | | [Oleg Šelajev][shelajev] |
 |  3 Sep 2016 | [JDay Lviv][jday-lviv] | [Javaslang - Functional Java Done Right](http://www.jday.com.ua/#nav-schedule) | | | [Grzegorz Piwowarek][pivovarit] |
 |  8 Jul 2016 | [DevCon Nürnberg][devcon-nuernberg] | [Javaslang - Functional Sugar For Java][devcon-nuernberg] | [Slides](http://www.slideshare.net/koenighotze/javaslang-functional-sugar-for-java) | | [David Schmitz][koenighotze] |
@@ -48,11 +49,12 @@
 [devcon-nuernberg]: http://www.senacor.com/karriere/workshops/devcon "DevCon Nürnberg"
 [devoxx-belgium]: https://devoxx.be "Devoxx Belgium"
 [devoxx-poland]: https://devoxx.pl "Devoxx Poland"
+[greach-conf17]: http://2017.greachconf.com "Greach 2017"
 [javaday-kyiv]: http://javaday.org.ua "JavaDay Kyiv"
 [javaone]: https://www.oracle.com/javaone "JavaOne"
 [javazone]: http://javazone.no "JavaZone"
 [jday-lviv]: http://www.jday.com.ua "JDay Lviv"
-[jdd-krakow]: http://16.jdd.org.pl "JDD Kraków"
+[jdd-krakow16]: http://16.jdd.org.pl "JDD Kraków 2016"
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 [jug-hh]: http://www.jughh.de "JUG Hamburg"
 
@@ -65,6 +67,7 @@
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
 [gtrefs]: https://twitter.com/gtrefs "@gtrefs"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
+[ilopmar]: https://twitter.com/ilopmar "@ilopmar"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
 [manishdevraj]: https://twitter.com/manishdevraj "@manishdevraj"
 [mariofusco]: https://twitter.com/mariofusco "@mariofusco"
