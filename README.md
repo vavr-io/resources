@@ -2,10 +2,11 @@
 
 # [Javaslang](http://www.javaslang.io) Resources
 
-## Conferences
+## Talks
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
+| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | [Falk Sippach](sippsack) |
 | 11 Jan 2017 | [Cluj FP][cluj-fp] | [Creating an efficient persistent ArrayList alternative for Javaslang ](https://www.meetup.com/Cluj-fp/events/235901256) | [Prezi](https://prezi.com/i3cu6yv3eja3/creating-an-efficient-persistent-arraylist-alternative) | [Video](https://goo.gl/K0YbjL)| [Pap Lőrinc][paplorinc] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java The Easy Way](http://cfp.devoxx.be/2016/talk/JWK-6289/Javaslang%20-%20Functional%20Java%20The%20Easy%20Way) | | | [David Schmitz][koenighotze] |
@@ -19,14 +20,8 @@
 | May 2016 | | JAVASLANG - A Functional Library for Java 8+ | [Slides](http://netzwerg.ch/slides/javaslang.html) | | [Rahel Lüthy][netzwerg999] |
 | 19 Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12 Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
-| 10 Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
-
-## User Groups
-
-| Date | User Group | Talk | Slides | Video | Speaker |
-| --- | --- | --- | --- | --- | --- |
-| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | [Falk Sippach](sippsack) |
 | 20 Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | [Video](http://media.fib.upc.edu/fibtv/streamingmedia/view/22/1044) | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
+| 10 Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
 
 ## Blog Posts
 
