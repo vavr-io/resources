@@ -4,7 +4,7 @@
 
 ## Talks
 
-| Date | Conference | Talk | Slides | Video | Code | Speaker |
+| Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
 | 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | | [Falk Sippach](sippsack) |
 | 31 Mar 2017 | [Greach 2017][greach-conf17] | Javaslang & Groovy: The best of both worlds | [Slides](https://www.slideshare.net/ilopmar/greach-2017-javaslang-groovy-the-best-of-both-worlds)  | [Video](https://www.youtube.com/watch?v=0k7Yae1pjv4) | [Iván López][ilopmar] |
