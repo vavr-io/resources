@@ -27,6 +27,7 @@
 
 | Date | Title | Author |
 | --- | --- | --- |
+| 13 Apr 2017 | [Pimp my Javaslang Validator](http://blog.xebia.fr/2017/04/12/pimp-my-javaslang-validator) | [Fabian Gutierrez][fabiangutierrez] |
 | 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
 | 14 Mar 2017 | [Road to a more functional Java with Javaslang - example refactoring](https://softwaremill.com/road-to-more-functional-java-with-javaslang) | [Tomasz Dziurko][tomaszdziurko] |
 | 25 Jan 2017 | [Introduction to Javaslang](http://www.baeldung.com/javaslang) | [Eugen Baeldung][baeldung] |
@@ -59,6 +60,7 @@
 [baeldung]: https://twitter.com/baeldung "@baeldung"
 [breandan]: https://twitter.com/breandan "@breandan"
 [danieldietrich]: https://twitter.com/danieldietrich "@danieldietrich"
+[fabiangutierrez]: https://www.linkedin.com/in/fabian-gutierrez-13b06324 "Fabian Gutierrez"
 [fredriv]: https://twitter.com/fredriv "@fredriv"
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
 [gtrefs]: https://twitter.com/gtrefs "@gtrefs"
