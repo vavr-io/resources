@@ -2,7 +2,7 @@
 
 # [Javaslang](http://www.javaslang.io) Resources
 
-## Talks
+## Conferences
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
@@ -20,6 +20,12 @@
 | 19 Mar 2016 | [Codemotion Rome][codemotion] | [From object oriented to functional domain modeling](http://rome2016.codemotionworld.com/conference/19-March) | [Slides](http://www.slideshare.net/Codemotion/from-object-oriented-to-functional-domain-modeling-60174044) | [Video](https://www.youtube.com/watch?v=tKfVI2hGtGQ) | [Mario Fusco][mariofusco] |
 | 12 Nov 2015 | [Devoxx Belgium][devoxx-belgium] | [From object oriented to functional domain modeling](https://cfp.devoxx.be/2015/speaker/mario_fusco.html) | [Slides](http://slideshare.net/mariofusco/from-object-oriented-to-functional-domain-modeling) | [Video](https://www.youtube.com/watch?v=K6BmGBzIqW0) |[Mario Fusco][mariofusco] |
 | 10 Sep 2015 | [JavaZone][javazone] | [Java 8 DOs and DON'Ts](http://2015.javazone.no/speakerinterviews.html) | | [Video](https://www.youtube.com/watch?v=uECuqa2zVbs) | [Fredrik Vraalsen][fredriv] |
+
+## User Groups
+
+| Date | User Group | Talk | Slides | Video | Speaker |
+| --- | --- | --- | --- | --- | --- |
+| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | [Falk Sippach](sippsack) |
 | 20 Oct 2014 | [JUG Barcelona][jug-barcelona] | FP in Java 8 | [Slides](http://www.slideshare.net/IgnasiMarimonClos/functional-programming-in-java-8) | [Video](http://media.fib.upc.edu/fibtv/streamingmedia/view/22/1044) | [Ignasi Marimon-Clos i Sunyol][ignasi35] |
 
 ## Blog Posts
@@ -38,7 +44,7 @@
 | 11 Nov 2015 | [Functional programming for Java: getting started with Javaslang](http://tomassetti.me/functional-programming-for-java-getting-started-with-javaslang) | [Federico Tomassetti][ftomasse] |
 | 13 Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang) | [Daniel Dietrich][danieldietrich] |
 
-[//]: # (Conferences)
+[//]: # (Locations)
 [cluj-fp]: https://www.meetup.com/Cluj-fp "Cluj-Napoca FP meetup"
 [codemotion]: http://www.codemotionworld.com "Codemotion Italy"
 [confitura-pl]: http://confitura.pl "Confitura PL"
@@ -51,6 +57,7 @@
 [jday-lviv]: http://www.jday.com.ua "JDay Lviv"
 [jdd-krakow]: http://16.jdd.org.pl "JDD Kraków"
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
+[jug-hh]: http://www.jughh.de "JUG Hamburg"
 
 [//]: # (Users)
 [baeldung]: https://twitter.com/baeldung "@baeldung"
@@ -67,4 +74,5 @@
 [paplorinc]: https://twitter.com/paplorinc "@paplorinc"
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
 [shelajev]: https://twitter.com/shelajev "@shelajev"
+[sippsack]: https://twitter.com/sippsack "@sippsack"
 [torbjornvatn]: https://twitter.com/torbjornvatn "@torbjornvatn"
