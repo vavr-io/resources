@@ -28,6 +28,7 @@
 | Date | Title | Author |
 | --- | --- | --- |
 | 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
+| 14 Mar 2017 | [Road to a more functional Java with Javaslang - example refactoring](https://softwaremill.com/road-to-more-functional-java-with-javaslang) | [Tomasz Dziurko][tomaszdziurko] |
 | 25 Jan 2017 | [Introduction to Javaslang](http://www.baeldung.com/javaslang) | [Eugen Baeldung][baeldung] |
 | 17 Jan 2017 | [Property Based Testing with Javaslang](https://www.sitepoint.com/property-based-testing-with-javaslang) | [Gregor Trefs][gtrefs] |
 |  3 Nov 2016 | [PR for Javaslang: `Implement Vector as a bit-mapped trie`](https://www.linkedin.com/pulse/pr-javaslang-implement-vector-bit-mapped-trie-pap-lőrinc) | [Pap Lőrinc][paplorinc] |
@@ -70,4 +71,5 @@
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
 [shelajev]: https://twitter.com/shelajev "@shelajev"
 [sippsack]: https://twitter.com/sippsack "@sippsack"
+[tomaszdziurko]: https://twitter.com/TomaszDziurko "@TomaszDziurko"
 [torbjornvatn]: https://twitter.com/torbjornvatn "@torbjornvatn"
