@@ -6,7 +6,7 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
-| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://twitter.com/thmuch/status/852249767430193152) | | | | [Falk Sippach](sippsack) |
+| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/ | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach](sippsack) |
 | 31 Mar 2017 | [Greach 2017][greach-conf17] | [Javaslang & Groovy: The best of both worlds](http://2017.greachconf.com/sessions/javaslang-groovy-the-best-of-both-worlds) | [Slides](https://www.slideshare.net/ilopmar/greach-2017-javaslang-groovy-the-best-of-both-worlds)  | [Video](https://www.youtube.com/watch?v=0k7Yae1pjv4) | [Iván López][ilopmar] |
 | 11 Jan 2017 | [Cluj FP][cluj-fp] | [Creating an efficient persistent ArrayList alternative for Javaslang ](https://www.meetup.com/Cluj-fp/events/235901256) | [Prezi](https://prezi.com/i3cu6yv3eja3/creating-an-efficient-persistent-arraylist-alternative) | [Video](https://goo.gl/K0YbjL)| [Pap Lőrinc][paplorinc] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
