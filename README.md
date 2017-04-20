@@ -6,7 +6,8 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
-| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/) | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach](sippsack) |
+| 21 Apr 2017 | [Breizhcamp][breizhcamp] | [And Java becomes more functional with Vavr.io!](http://www.breizhcamp.org/conference/programme) | [Slides](https://github.com/glours/vavr-presentation) | | [Guillaume Lours][glours] |
+| 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/) | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach][sippsack] |
 | 31 Mar 2017 | [Greach 2017][greach-conf17] | [Javaslang & Groovy: The best of both worlds](http://2017.greachconf.com/sessions/javaslang-groovy-the-best-of-both-worlds) | [Slides](https://www.slideshare.net/ilopmar/greach-2017-javaslang-groovy-the-best-of-both-worlds)  | [Video](https://www.youtube.com/watch?v=0k7Yae1pjv4) | [Iván López][ilopmar] |
 | 11 Jan 2017 | [Cluj FP][cluj-fp] | [Creating an efficient persistent ArrayList alternative for Javaslang ](https://www.meetup.com/Cluj-fp/events/235901256) | [Prezi](https://prezi.com/i3cu6yv3eja3/creating-an-efficient-persistent-arraylist-alternative) | [Video](https://goo.gl/K0YbjL)| [Pap Lőrinc][paplorinc] |
 | 7-11 Nov 2016 | [Devoxx Belgium][devoxx-belgium] | [Javaslang - Functional Java Done Right](http://cfp.devoxx.be/2016/talk/MSD-7684/Javaslang_-_functional_Java_done_right) | | | [Grzegorz Piwowarek][pivovarit] |
@@ -43,6 +44,7 @@
 | 13 Mar 2015 | [Functional Programming in Java 8 with Javaslang](https://blog.jooq.org/2015/05/13/functional-programming-in-java-8-with-javaslang) | [Daniel Dietrich][danieldietrich] |
 
 [//]: # (Locations)
+[breizhcamp]: http://www.breizhcamp.org "Breizhcamp"
 [cluj-fp]: https://www.meetup.com/Cluj-fp "Cluj-Napoca FP meetup"
 [codemotion]: http://www.codemotionworld.com "Codemotion Italy"
 [confitura-pl]: http://confitura.pl "Confitura PL"
@@ -66,6 +68,7 @@
 [fredriv]: https://twitter.com/fredriv "@fredriv"
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
 [gtrefs]: https://twitter.com/gtrefs "@gtrefs"
+[glours]: https://twitter.com/glours "@glours"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [ilopmar]: https://twitter.com/ilopmar "@ilopmar"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
