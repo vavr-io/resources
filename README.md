@@ -6,6 +6,7 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
+| 21 Apr 2017 | [RivieraDev][rivieradev] | [And Java becomes more functional with Vavr.io!](http://rivieradev.fr/session/110) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 21 Apr 2017 | [Breizhcamp][breizhcamp] | [And Java becomes more functional with Vavr.io!](http://www.breizhcamp.org/conference/programme) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/) | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach][sippsack] |
 | 31 Mar 2017 | [Greach 2017][greach-conf17] | [Javaslang & Groovy: The best of both worlds](http://2017.greachconf.com/sessions/javaslang-groovy-the-best-of-both-worlds) | [Slides](https://www.slideshare.net/ilopmar/greach-2017-javaslang-groovy-the-best-of-both-worlds)  | [Video](https://www.youtube.com/watch?v=0k7Yae1pjv4) | [Iván López][ilopmar] |
@@ -59,6 +60,7 @@
 [jdd-krakow16]: http://16.jdd.org.pl "JDD Kraków 2016"
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 [jug-hh]: http://www.jughh.de "JUG Hamburg"
+[rivieradev]: http://rivieradev.fr/ "Riviera Dev 2017"
 
 [//]: # (Users)
 [baeldung]: https://twitter.com/baeldung "@baeldung"
