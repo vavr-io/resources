@@ -30,8 +30,10 @@
 
 | Date | Title | Author |
 | --- | --- | --- |
+| 14 Jun 2017 | [Do we have a better Option here](https://softwaremill.com/do-we-have-better-option-here/) | [Michał Chmielarz][mchmielu] |
 | 13 Apr 2017 | [Pimp my Javaslang Validator](http://blog.xebia.fr/2017/04/12/pimp-my-javaslang-validator) | [Fabian Gutierrez][fabiangutierrez] |
 | 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
+| 16 Mar 2017 | [Vavr and data validation](https://softwaremill.com/javaslang-data-validation/) | [Michał Chmielarz][mchmielu] |
 | 14 Mar 2017 | [Road to a more functional Java with Javaslang - example refactoring](https://softwaremill.com/road-to-more-functional-java-with-javaslang) | [Tomasz Dziurko][tomaszdziurko] |
 | 25 Jan 2017 | [Introduction to Javaslang](http://www.baeldung.com/javaslang) | [Eugen Baeldung][baeldung] |
 | 17 Jan 2017 | [Property Based Testing with Javaslang](https://www.sitepoint.com/property-based-testing-with-javaslang) | [Gregor Trefs][gtrefs] |
