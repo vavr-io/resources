@@ -6,6 +6,7 @@
 
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
+| 7 Nov 2017 | [Øredev][Øredev] | [Functional Libraries for Java 8 and 9](https://eventil.com/presentations/Zzs3e4) | | [Video](https://eventil.com/presentations/Zzs3e4) | [Rabea Gransberger][rgransberger] |
 | 21 Apr 2017 | [RivieraDev][rivieradev] | [And Java becomes more functional with Vavr.io!](http://rivieradev.fr/session/110) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 21 Apr 2017 | [Breizhcamp][breizhcamp] | [And Java becomes more functional with Vavr.io!](http://www.breizhcamp.org/conference/programme) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/) | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach][sippsack] |
@@ -62,6 +63,7 @@
 [jdd-krakow16]: http://16.jdd.org.pl "JDD Kraków 2016"
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 [jug-hh]: http://www.jughh.de "JUG Hamburg"
+[Øredev]: http://oredev.org "Øredev"
 [rivieradev]: http://rivieradev.fr/ "Riviera Dev 2017"
 
 [//]: # (Users)
@@ -81,6 +83,7 @@
 [netzwerg999]: http://twitter.com/netzwerg999 "@netzwerg999"
 [paplorinc]: https://twitter.com/paplorinc "@paplorinc"
 [pivovarit]: https://twitter.com/pivovarit "@pivovarit"
+[rgransberger]: https://twitter.com/rgransberger "@rgransberger"
 [shelajev]: https://twitter.com/shelajev "@shelajev"
 [sippsack]: https://twitter.com/sippsack "@sippsack"
 [tomaszdziurko]: https://twitter.com/TomaszDziurko "@TomaszDziurko"
