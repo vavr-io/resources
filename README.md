@@ -1,6 +1,6 @@
 [//]: # (Note: Resources are sorted starting from newest in descending order)
 
-# [Javaslang](http://www.javaslang.io) Resources
+# [Vavr](http://www.vavr.io) Resources
 
 ## Talks
 
