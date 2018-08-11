@@ -7,6 +7,7 @@
 | Date | Conference | Talk | Slides | Video | Speaker |
 | --- | --- | --- | --- | --- | --- |
 | 7 Nov 2017 | [Øredev][Øredev] | [Functional Libraries for Java 8 and 9](https://eventil.com/presentations/Zzs3e4) | | [Video](https://eventil.com/presentations/Zzs3e4) | [Rabea Gransberger][rgransberger] |
+| 24 Aug 2017 | [JUG DA][jugda] | [VAVR und Resilience4J mit Robert Winkler!](http://www.hameister.org/Blog/?p=5270) | | | [Robert Winkler][RobWin] |
 | 21 Apr 2017 | [RivieraDev][rivieradev] | [And Java becomes more functional with Vavr.io!](http://rivieradev.fr/session/110) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 21 Apr 2017 | [Breizhcamp][breizhcamp] | [And Java becomes more functional with Vavr.io!](http://www.breizhcamp.org/conference/programme) | [Slides](https://glours.github.io/vavr-presentation/) | | [Guillaume Lours][glours] |
 | 12 Apr 2017 | [JUG HH][jug-hh] | [Funktionales Java 8+, Javaslang, Groovy & Frege](https://www.meetup.com/jug-hamburg/events/238777668/) | [Slides](http://www.oio.de/m/konf/vortraege/JUG-Hamburg2017-JVM-Functional-Language-Battle-Sippach.pdf) | | [Falk Sippach][sippsack] |
