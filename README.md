@@ -32,7 +32,7 @@
 | Date | Title | Author |
 | --- | --- | --- |
 | 21 Dev 2017 | [How to trash the exception model in Java: the Either type](https://filippobuletto.github.io/trash-the-exception-model-either/) | [Filippo Buletto][filippomito] |
-| 17 Dec 2017 | [Error Handling With Try and Either](https://filippobuletto.github.io/trash-the-exception-model/) | [Filippo Buletto][filippomito] |
+| 17 Dec 2017 | [How to trash the exception model in Java](https://filippobuletto.github.io/trash-the-exception-model/) | [Filippo Buletto][filippomito] |
 | 14 Jun 2017 | [Do we have a better Option here](https://softwaremill.com/do-we-have-better-option-here/) | [Michał Chmielarz][mchmielu] |
 | 13 Apr 2017 | [Pimp my Javaslang Validator](http://blog.xebia.fr/2017/04/12/pimp-my-javaslang-validator) | [Fabian Gutierrez][fabiangutierrez] |
 | 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
