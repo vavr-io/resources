@@ -66,7 +66,7 @@
 [jdd-krakow16]: http://16.jdd.org.pl "JDD Kraków 2016"
 [jug-barcelona]: http://barcelonajug.org "JUG Barcelona"
 [jug-hh]: http://www.jughh.de "JUG Hamburg"
-[jug-da]: http://www.jugda.de "JUG Darmstadt"
+[jug-da]: http://www.jug-da.de "JUG Darmstadt"
 [Øredev]: http://oredev.org "Øredev"
 [rivieradev]: http://rivieradev.fr/ "Riviera Dev 2017"
 
