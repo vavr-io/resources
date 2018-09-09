@@ -35,6 +35,7 @@
 | 21 Dev 2017 | [How to trash the exception model in Java: the Either type](https://filippobuletto.github.io/trash-the-exception-model-either/) | [Filippo Buletto][filippomito] |
 | 17 Dec 2017 | [How to trash the exception model in Java](https://filippobuletto.github.io/trash-the-exception-model/) | [Filippo Buletto][filippomito] |
 | 14 Jun 2017 | [Do we have a better Option here](https://softwaremill.com/do-we-have-better-option-here/) | [Michał Chmielarz][mchmielu] |
+| 11 Jun 2017 | [Functional Programming with Java and Vavr (Javaslang)](http://ignaciosuay.com/fp) ([Code on Github](https://github.com/ignacioSuay/Presentations/tree/master/functionalProgramming)) | [ignacio_suay] |
 | 13 Apr 2017 | [Pimp my Javaslang Validator](http://blog.xebia.fr/2017/04/12/pimp-my-javaslang-validator) | [Fabian Gutierrez][fabiangutierrez] |
 | 22 Mar 2017 | [Property Testing Example With Javaslang](http://www.baeldung.com/javaslang-property-testing) | [Eugen Baeldung][baeldung] |
 | 16 Mar 2017 | [Vavr and data validation](https://softwaremill.com/javaslang-data-validation/) | [Michał Chmielarz][mchmielu] |
@@ -80,6 +81,7 @@
 [ftomasse]: https://twitter.com/ftomasse "@ftomasse"
 [gtrefs]: https://twitter.com/gtrefs "@gtrefs"
 [glours]: https://twitter.com/glours "@glours"
+[ignacio_suay]: https://twitter.com/ignacio_suay "@ignacio_suay"
 [ignasi35]: https://twitter.com/ignasi35 "@ignasi35"
 [ilopmar]: https://twitter.com/ilopmar "@ilopmar"
 [koenighotze]: https://twitter.com/koenighotze "@koenighotze"
